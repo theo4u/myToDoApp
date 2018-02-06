@@ -34,5 +34,8 @@
     "url": "git://github.com/anasuya/myToDoApp.git"
   },
   "author": "anasuya",
-  "license": ""
+  "license": "",
+  "devDependencies": {
+    "swagger-ui": "^2.2.10"
+  }
 }
