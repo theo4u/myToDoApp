@@ -1,5 +1,5 @@
 module.exports["swagger-generator"] = {
-    swaggerJsonPath: sails.config.appPath + "/swagger/swagger.json",
+    // swaggerJsonPath: sails.config.appPath + "/swagger/swagger.json",
     parameters: { //we can add up custom parameters here
         PerPageQueryParam: {
             in: 'query',
